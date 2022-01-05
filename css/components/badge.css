@@ -1,7 +1,5 @@
 .badge {
     display: flex;
-    width: 25px;
-    height: 25px;
     background-color: tomato;
     color: white;
     justify-content: center;

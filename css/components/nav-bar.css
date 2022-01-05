@@ -23,6 +23,8 @@
     position: absolute;
     left: 20px;
     bottom: 15px;
+    width: 25px;
+    height: 25px;
 }
 
 .nav__notice {
@@ -30,7 +32,6 @@
     width: 5px;
     height: 5px;
     display: block;
-    border-radius: 50%;
     position: absolute;
     left: 30px;
 }
